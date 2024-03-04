@@ -1,0 +1,612 @@
+{
+  "categories": [
+    {
+      "category": "Clothes",
+      "items": [
+        {
+          "itemSKU": "CLTH001",
+          "itemName": "Men's T-Shirt",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://i5.walmartimages.com/asr/38ea6606-e5a2-4d29-9ae5-2952d7173b8b_1.44e5c3267324f91822dda55e193abed7.jpeg"
+          ],
+          "price": 19.99
+        },
+        {
+          "itemSKU": "CLTH002",
+          "itemName": "Women's Jeans",
+          "brand": "Levi's",
+          "itemSeller": "DenimWorld",
+          "stock": 75,
+          "images": [
+            "https://i5.walmartimages.com/asr/be0d3ddc-61fe-4335-9a39-84e6b5dde1e5.6b7ff336aa45c691fe8aa71dcc0ea97c.jpeg",
+            
+          ],
+          "price": 39.99
+        },
+        // Add 48 more unique items
+	{
+          "itemSKU": "CLTH003",
+          "itemName": "Ladies -White Long sleeves",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/71yBwE%2BQUtL.jpg"
+          ],
+          "price": 19.99
+        },
+	{
+          "itemSKU": "CLTH004",
+          "itemName": "Men's Black pattern",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.pIA1uTXDXV1OyQjHuk7YhgHaJ4?rs=1&pid=ImgDetMain"
+          ],
+          "price": 19.99
+        },
+	{
+          "itemSKU": "CLTH005",
+          "itemName": "Men's Black suit",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://www.instaloverz.com/wp-content/uploads/2016/08/9-black-suit-fashion-ideas-for-men-1.jpg"
+          ],
+          "price": 19.99
+        },
+	{
+          "itemSKU": "CLTH006",
+          "itemName": "Ladies puff sleeved",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://www.na-kd.com/globalassets/nakd_fitted_puff_sleeve_top_brown_1018-001861-0017_01a_r.jpg?ref=FBF3CBE654"
+          ],
+          "price": 19.99
+        },
+	{
+          "itemSKU": "CLTH008",
+          "itemName": "Ladies white Wool Blend",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.e61OWSp97yQg4gJl1TkmlgHaLG?rs=1&pid=ImgDetMain"
+          ],
+          "price": 19.99
+        },
+	{
+          "itemSKU": "CLTH009",
+          "itemName": "Men's grey Baggy Jeans",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.68g0bsyy9WUIutyrWj7uHwHaJk?rs=1&pid=ImgDetMain"
+          ],
+          "price": 19.99
+        },
+	{
+          "itemSKU": "CLTH010",
+          "itemName": "Men's Trouser",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://i5.walmartimages.com/asr/0d9a6fdb-9ead-4a7b-87ca-b0ab305af0c9.5ae54bba7efb7b06cdd79cdfa86859df.jpeg"
+          ],
+          "price": 19.99
+        },
+	
+      ]
+    },
+    {
+      "category": "Electronics",
+      "items": [
+        {
+          "itemSKU": "ELEC001",
+          "itemName": "Smartphone",
+          "brand": "Samsung",
+          "itemSeller": "TechEmporium",
+          "stock": 50,
+          "images": [
+            "https://th.bing.com/th/id/OIP._chfEdvhVw8hg6tIVj8JvgHaHC?rs=1&pid=ImgDetMain"
+          ],
+          "price": 499.99
+        },
+        {
+          "itemSKU": "ELEC002",
+          "itemName": "Laptop",
+          "brand": "Apple",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://i5.walmartimages.com/asr/e3ced41b-70f0-4afa-813a-6aa923980501_2.0388a3cf5a00012a75f3d3898a4d1062.jpeg"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC003",
+          "itemName": "Laptop",
+          "brand": "Lenovo",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://i5.walmartimages.com/asr/0cb7a843-6f55-4c9a-b71d-fa3408d68464_1.10fc412091e6617966cef69fc422f885.jpeg"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC004",
+          "itemName": "Laptop",
+          "brand": "hp pavilion",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://www.notebookcheck.net/fileadmin/Notebooks/HP/Pavilion_15-ab022ng/4zu3_HP_Pavilion_15_ab002ng.jpg"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC005",
+          "itemName": "Laptop",
+          "brand": "dell",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://th.bing.com/th/id/OIP.m1MkTTIdYb1-mOzhGsrBfAHaE1?rs=1&pid=ImgDetMain"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC006",
+          "itemName": "Mobile",
+          "brand": "Xiaomi Redmi Note 10",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://everythingxiaomi.com/wp-content/uploads/2021/03/Redmi-Note-10-Pro-Max.jpg"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC007",
+          "itemName": "Mobile",
+          "brand": "Oppo 9AX",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://i.blogs.es/528bd7/oppo-a9x/840_560.jpg"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC009",
+          "itemName": "Mobile",
+          "brand": "Nokia Flip Cell Phones",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://image.cnbcfm.com/api/v1/image/106109497-1567532369328nokiaflipbestpic.jpg?v=1597131240"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC010",
+          "itemName": "iPad",
+          "brand": "Apple",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://th.bing.com/th/id/OIP.pNFwZbBE1DZhEPIz0mJjxgHaHa?rs=1&pid=ImgDetMain"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC011",
+          "itemName": "Redmi 8",
+          "brand": "Apple",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://i5.walmartimages.com/asr/92b6051a-a33f-4382-a338-1e919440daca_1.fab02427d0112bf727072ead8bee66d1.jpeg"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC012",
+          "itemName": "Mobile",
+          "brand": "LG G4",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://th.bing.com/th/id/OIP.COBj2JmFGCe9reNL8Y5-oQHaFj?rs=1&pid=ImgDetMain"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC013",
+          "itemName": "Mobile",
+          "brand": "Motorola One Fusion Plus",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://th.bing.com/th/id/OIP.svnmfRqHiKwrFdA-ZV19_gHaEK?rs=1&pid=ImgDetMain"
+          ],
+          "price": 1299.99
+        },
+	{
+          "itemSKU": "ELEC014",
+          "itemName": "Laptop",
+          "brand": "Motorola One Fusión",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://th.bing.com/th/id/OIP.M7BGwoORqeRT4jfS14HgEgHaDt?rs=1&pid=ImgDetMain"
+          ],
+          "price": 1299.99
+        },
+        // Add 48 more unique items
+      ]
+    },
+    {
+      "category": "Vegetables",
+      "items": [
+        {
+          "itemSKU": "VEG001",
+          "itemName": "Tomatoes",
+          "brand": "Organic Farms",
+          "itemSeller": "FreshFarm",
+          "stock": 200,
+          "images": [
+            "https://www.tasteofhome.com/wp-content/uploads/2018/05/GettyImages-1043681048.jpg?w=1200"
+          ],
+          "price": 2.99
+        },
+        {
+          "itemSKU": "VEG002",
+          "itemName": "Spinach",
+          "brand": "Green Fields",
+          "itemSeller": "FreshFarm",
+          "stock": 150,
+          "images": [
+            "https://th.bing.com/th/id/OIP.LAiDSADCqakUuZ9a2NSnHgHaE8?rs=1&pid=ImgDetMain"
+          ],
+          "price": 1.99
+        },
+	{
+          "itemSKU": "VEG003",
+          "itemName": "Peas",
+          "brand": "Organic Farms",
+          "itemSeller": "FreshFarm",
+          "stock": 200,
+          "images": [
+            "https://images.healthshots.com/healthshots/en/uploads/2021/08/23133154/Peas.jpg"
+          ],
+          "price": 2.99
+        },
+	{
+          "itemSKU": "VEG004",
+          "itemName": "Soybean",
+          "brand": "Organic Farms",
+          "itemSeller": "FreshFarm",
+          "stock": 200,
+          "images": [
+            "https://th.bing.com/th/id/OIP.FC6j_luBN8RfayjhioLAtQHaE9?rs=1&pid=ImgDetMain"
+          ],
+          "price": 2.99
+        },
+	{
+          "itemSKU": "VEG005",
+          "itemName": "Potato",
+          "brand": "Organic Farms",
+          "itemSeller": "FreshFarm",
+          "stock": 200,
+          "images": [
+            "https://th.bing.com/th/id/OIP.3J8u4nAHxKnz_rs63I60vgHaFc?rs=1&pid=ImgDetMain"
+          ],
+          "price": 2.99
+        },
+	{
+          "itemSKU": "VEG006",
+          "itemName": "Onions",
+          "brand": "Organic Farms",
+          "itemSeller": "FreshFarm",
+          "stock": 200,
+          "images": [
+            "https://th.bing.com/th/id/OIP.pAY2uNR-THyrK8WYv_BJCQHaE8?w=1254&h=836&rs=1&pid=ImgDetMain"
+          ],
+          "price": 2.99
+        },
+	{
+          "itemSKU": "VEG007",
+          "itemName": "Beetroot",
+          "brand": "Organic Farms",
+          "itemSeller": "FreshFarm",
+          "stock": 200,
+          "images": [
+            "https://th.bing.com/th/id/OIP._bLtc_-TxBqKlkqXx52xHwHaEK?rs=1&pid=ImgDetMain"
+          ],
+          "price": 2.99
+        },
+	{
+          "itemSKU": "VEG008",
+          "itemName": "Ladiesfinger",
+          "brand": "Organic Farms",
+          "itemSeller": "FreshFarm",
+          "stock": 200,
+          "images": [
+            "https://voices.shortpedia.com/wp-content/uploads/2021/07/lady-finger-1200x900-1.jpg"
+          ],
+          "price": 2.99
+        },
+	{
+          "itemSKU": "VEG009",
+          "itemName": "Brinjal",
+          "brand": "Organic Farms",
+          "itemSeller": "FreshFarm",
+          "stock": 200,
+          "images": [
+            "https://th.bing.com/th/id/OIP.bXfZbIOHBaIk0CxxnCgczAHaE6?rs=1&pid=ImgDetMain"
+          ],
+          "price": 2.99
+        },
+	{
+          "itemSKU": "VEG010",
+          "itemName": "Broccoli",
+          "brand": "Organic Farms",
+          "itemSeller": "FreshFarm",
+          "stock": 200,
+          "images": [
+            "https://cdn.britannica.com/25/78225-050-1781F6B7/broccoli-florets.jpg"
+          ],
+          "price": 2.99
+        },
+	
+        // Add 48 more unique items
+      ]
+    },
+    {
+      "category": "Fruits",
+      "items": [
+        {
+          "itemSKU": "FRUIT001",
+          "itemName": "Apples",
+          "brand": "Farm Fresh",
+          "itemSeller": "FreshFruitMart",
+          "stock": 300,
+          "images": [
+            "https://th.bing.com/th/id/R.ab7861c8f52e2a71c5401f80b4869183?rik=72zA1PYP9ptQgg&riu=http%3a%2f%2fapple.gop%2fmedia%2fuploads%2fzinnia%2fshiny-red-apples.jpg&ehk=1OqkLNXKlIZEiFEiMfL%2bjWmShEoe5N412%2bXM1iioX5s%3d&risl=&pid=ImgRaw&r=0"
+          ],
+          "price": 3.49
+        },
+        {
+          "itemSKU": "FRUIT002",
+          "itemName": "Papaya",
+          "brand": "Tropical Delight",
+          "itemSeller": "FreshFruitMart",
+          "stock": 250,
+          "images": [
+            "https://th.bing.com/th/id/OIP.1085Uwiz1R7f6JVORg5IpQHaE5?rs=1&pid=ImgDetMain"
+          ],
+          "price": 1.99
+        },
+	{
+          "itemSKU": "FRUIT003",
+          "itemName": "Lychee",
+          "brand": "Farm Fresh",
+          "itemSeller": "FreshFruitMart",
+          "stock": 300,
+          "images": [
+            "https://www.savoryexperiments.com/wp-content/uploads/2020/06/lychee.jpg"
+          ],
+          "price": 3.49
+        },
+	{
+          "itemSKU": "FRUIT004",
+          "itemName": "Guava",
+          "brand": "Farm Fresh",
+          "itemSeller": "FreshFruitMart",
+          "stock": 300,
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Guava_ID.jpg/1200px-Guava_ID.jpg"
+          ],
+          "price": 3.49
+        },
+	{
+          "itemSKU": "FRUIT005",
+          "itemName": "Pomelo",
+          "brand": "Farm Fresh",
+          "itemSeller": "FreshFruitMart",
+          "stock": 300,
+          "images": [
+            "https://www.savoryexperiments.com/wp-content/uploads/2020/05/pomelo.jpg"
+          ],
+          "price": 3.49
+        },
+	{
+          "itemSKU": "FRUIT006",
+          "itemName": "pomegranate",
+          "brand": "Farm Fresh",
+          "itemSeller": "FreshFruitMart",
+          "stock": 300,
+          "images": [
+            "https://cdn.britannica.com/96/201196-050-C0441508/Batch-pomegranate-fruits.jpg"
+          ],
+          "price": 3.49
+        },
+	{
+          "itemSKU": "FRUIT007",
+          "itemName": "Dragon fruit",
+          "brand": "Farm Fresh",
+          "itemSeller": "FreshFruitMart",
+          "stock": 300,
+          "images": [
+            "https://i1.wp.com/www.theproducenerd.com/wp-content/uploads/2017/09/viet-nam-1093016_1920.jpg?fit=1920%2C1440&ssl=1"
+          ],
+          "price": 3.49
+        },
+	{
+          "itemSKU": "FRUIT008",
+          "itemName": "Mangoes",
+          "brand": "Farm Fresh",
+          "itemSeller": "FreshFruitMart",
+          "stock": 300,
+          "images": [
+            "https://th.bing.com/th/id/OIP.Dthb-I9m204FuHRtPzkcPAHaEa?rs=1&pid=ImgDetMain"
+          ],
+          "price": 3.49
+        },
+	{
+          "itemSKU": "FRUIT009",
+          "itemName": "Blueberry",
+          "brand": "Farm Fresh",
+          "itemSeller": "FreshFruitMart",
+          "stock": 300,
+          "images": [
+            "https://th.bing.com/th/id/OIP.Ys90Un0923SR6Bj7gWva0QHaFq?rs=1&pid=ImgDetMain"
+          ],
+          "price": 3.49
+        },
+	{
+          "itemSKU": "FRUIT010",
+          "itemName": "Plum",
+          "brand": "Farm Fresh",
+          "itemSeller": "FreshFruitMart",
+          "stock": 300,
+          "images": [
+            "https://th.bing.com/th/id/OIP.OOr7y8LZvxKfobUyGJcpyQHaE7?rs=1&pid=ImgDetMain"
+          ],
+          "price": 3.49
+        },
+	
+        // Add 48 more unique items
+      ]
+    },
+    {
+      "category": "Chocolates",
+      "items": [
+        {
+          "itemSKU": "CHOC001",
+          "itemName": "Milk Chocolate Bar",
+          "brand": "Hershey's",
+          "itemSeller": "SweetTreats",
+          "stock": 100,
+          "images": [
+            "https://www.bing.com/images/search?view=detailV2&ccid=aFssaJkN&id=3AFD29BE90224452444774DFDFB7E56C23A4A21B&thid=OIP.aFssaJkNS5jw5g9aCTP95AHaHa&mediaurl=https%3a%2f%2fi5.walmartimages.com%2fasr%2f57e2fb5b-cb65-4e6f-9b28-e9792f27375c_1.0288e324610e51c6d89246be2d256a5c.jpeg&exph=1500&expw=1500&q=milk+chocolate+bar&simid=607998019235158745&FORM=IRPRST&ck=AAAFF06FDFC51CD68FAAFFB9E045AFB1&selectedIndex=1&itb=0n"
+          ],
+          "price": 2.49
+        },
+        {
+          "itemSKU": "CHOC002",
+          "itemName": "Dark Chocolate Truffles",
+          "brand": "Godiva",
+          "itemSeller": "ChocoDelight",
+          "stock": 150,
+          "images": [
+            "https://th.bing.com/th/id/OIP.ZBLoLir32pVL6MzOaUrskAHaGl?rs=1&pid=ImgDetMain"
+          ],
+          "price": 5.99
+        },
+
+	{
+          "itemSKU": "CHOC003",
+          "itemName": "Milk Chocolate Bar",
+          "brand": "Hershey's",
+          "itemSeller": "SweetTreats",
+          "stock": 100,
+          "images": [
+            "https://example.com/milk-chocolate-bar.jpg"
+          ],
+          "price": 2.49
+        },
+	{
+          "itemSKU": "CHOC004",
+          "itemName": "Cadbury Roundie milk chocolate",
+          "brand": "Cadbury",
+          "itemSeller": "SweetTreats",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.htdwo8SwQgIsxSZsFK7oKAHaE_?rs=1&pid=ImgDetMain"
+          ],
+          "price": 2.49
+        },
+	{
+          "itemSKU": "CHOC005",
+          "itemName": "Cadbury",
+          "brand": "Cadbury",
+          "itemSeller": "SweetTreats",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/R.813215cea692d7f29aedc3062da2ff09?rik=SvP3E5OWAjrZxw&riu=http%3a%2f%2fwww.embalagemmarca.com.br%2fwp-content%2fuploads%2f2016%2f05%2fCadbury.jpg&ehk=kziXt8YfdKGRadmktznuAplsUB9zXn1XPgczbI6%2fpJg%3d&risl=&pid=ImgRaw&r=0"
+          ],
+          "price": 2.49
+        },
+	{
+          "itemSKU": "CHOC006",
+          "itemName": "5-Star",
+          "brand": "Cadbury",
+          "itemSeller": "SweetTreats",
+          "stock": 100,
+          "images": [
+            "https://www.towntokri.com/wp-content/uploads/2020/09/5-star.jpg"
+          ],
+          "price": 2.49
+        },
+	{
+          "itemSKU": "CHOC007",
+          "itemName": "5-Star Oreo",
+          "brand": "Cadbury",
+          "itemSeller": "SweetTreats",
+          "stock": 100,
+          "images": [
+            "https://www.mishry.com/wp-content/uploads/2021/08/cadbury-5-star-oreo-chocolate-bar-packaging.jpg"
+          ],
+          "price": 2.49
+        },
+	{
+          "itemSKU": "CHOC008",
+          "itemName": "kitkat",
+          "brand": "Nestle",
+          "itemSeller": "SweetTreats",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.Y0jC8_Pt8yG2vv0gcDjrpgHaHa?rs=1&pid=ImgDetMain"
+          ],
+          "price": 2.49
+        },
+	{
+          "itemSKU": "CHOC009",
+          "itemName": "Nestle",
+          "brand": "Nestle",
+          "itemSeller": "SweetTreats",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.yQl5yUripkKlFuwjG85BZwHaHP?rs=1&pid=ImgDetMain"
+          ],
+          "price": 2.49
+        },
+	{
+          "itemSKU": "CHOC010",
+          "itemName": "choci choci",
+          "brand": "choci choci",
+          "itemSeller": "SweetTreats",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.ui8x53PE1qFejIFhO4IBCwHaJ4?rs=1&pid=ImgDetMain"
+          ],
+          "price": 2.49
+        },
+	
+        // Add 48 more unique items
+      ]
+    }
+  ]
+}
