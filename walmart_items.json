@@ -1,3 +1,6 @@
+walmart_api
+A simple API endpoint that shows different categories of items and differnt products available in eac category. 
+walmart_items.json
 {
   "categories": [
     {
@@ -500,7 +503,7 @@
           "itemSeller": "SweetTreats",
           "stock": 100,
           "images": [
-            "https://www.bing.com/images/search?view=detailV2&ccid=aFssaJkN&id=3AFD29BE90224452444774DFDFB7E56C23A4A21B&thid=OIP.aFssaJkNS5jw5g9aCTP95AHaHa&mediaurl=https%3a%2f%2fi5.walmartimages.com%2fasr%2f57e2fb5b-cb65-4e6f-9b28-e9792f27375c_1.0288e324610e51c6d89246be2d256a5c.jpeg&exph=1500&expw=1500&q=milk+chocolate+bar&simid=607998019235158745&FORM=IRPRST&ck=AAAFF06FDFC51CD68FAAFFB9E045AFB1&selectedIndex=1&itb=0n"
+            "https://th.bing.com/th/id/OIP.Zf39aipbc5lecOirsewdgwHaHa?rs=1&pid=ImgDetMain"
           ],
           "price": 2.49
         },
@@ -603,7 +606,7 @@
             "https://th.bing.com/th/id/OIP.ui8x53PE1qFejIFhO4IBCwHaJ4?rs=1&pid=ImgDetMain"
           ],
           "price": 2.49
-        },
+        }
 	
         // Add 48 more unique items
       ]
