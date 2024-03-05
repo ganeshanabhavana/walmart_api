@@ -1,6 +1,4 @@
-walmart_api
-A simple API endpoint that shows different categories of items and differnt products available in eac category. 
-walmart_items.json
+
 {
   "categories": [
     {
